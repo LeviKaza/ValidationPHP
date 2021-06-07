@@ -6,6 +6,7 @@
         <meta charset="UTF-8">
         <link rel="stylesheet" href="css/header.css">
         <link rel="stylesheet" href="css/recommandation.css">
+        <link rel="stylesheet" href="css/footer.css">
         <script src="js/visbility.js" defer></script>
     </head>
     <body>
@@ -49,5 +50,6 @@
                 <?php endif ?>
             </div>
         </div>
+        <?php require_once 'templates/footer.php' ?>
     </body>
 </html>

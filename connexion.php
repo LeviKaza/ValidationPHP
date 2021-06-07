@@ -4,6 +4,7 @@
         <meta charset="UTF-8">
         <link rel="stylesheet" href="css/header.css">
         <link rel="stylesheet" href="css/connexion.css">
+        <link rel="stylesheet" href="css/footer.css">
     </head>
     <body>
         <?php require_once 'templates/header.php' ?>
@@ -21,5 +22,6 @@
             <?php endif ?>
             <input type="submit" value="Connexion">
         </form>
+        <?php require_once 'templates/footer.php' ?>
     </body>
 </html>

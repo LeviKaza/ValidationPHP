@@ -4,6 +4,7 @@
         <meta charset="UTF-8">
         <link rel="stylesheet" href="css/header.css">
         <link rel="stylesheet" href="css/index.css">
+        <link rel="stylesheet" href="css/footer.css">
     </head>
     <body>
         <?php require_once 'templates/header.php' ?>
@@ -15,5 +16,6 @@
             <p>Tu peux etre assuré que notre séléction t'emporteras dans des mondes imaginaires dont tu n'auras pas envie de partir.</p>
             <p>Alors amuses toi bien!</p>
         </div>
+        <?php require_once 'templates/footer.php' ?>
     </body>
 </html>

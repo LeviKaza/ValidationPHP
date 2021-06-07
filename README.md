@@ -1,4 +1,4 @@
-*Thème choisis: anime/manga**
+*Thème choisis: anime/manga*
 *le but du site est de presenter une séléction de manga/anime*
 
 ___Log de connexion "admin"___

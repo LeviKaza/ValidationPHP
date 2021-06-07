@@ -1,0 +1,6 @@
+footer {
+    height: 10%;
+    display: flex;
+    background-color: black;
+    align-self: flex-end;
+}
