@@ -1,0 +1,28 @@
+#light {
+    border: 1px solid black;
+    background-color: lightsteelblue;
+    width: 50%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+#light_ {
+    display: none;
+}
+
+.display {
+    display: block;
+}
+
+.hidden {
+    display: none;
+}
+
+.all {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
